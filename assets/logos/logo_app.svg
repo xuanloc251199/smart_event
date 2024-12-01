@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 97.39px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #5669ff;
+      }
+
+      .cls-4 {
+        letter-spacing: .5em;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        letter-spacing: .49em;
+      }
+
+      .cls-6 {
+        letter-spacing: .56em;
+      }
+
+      .cls-3, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        letter-spacing: .55em;
+      }
+
+      .cls-9 {
+        letter-spacing: .56em;
+      }
+
+      .cls-10 {
+        letter-spacing: .5em;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        letter-spacing: .49em;
+      }
+
+      .cls-12 {
+        letter-spacing: .49em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-3" x="563.77" y="390.86" width="872.46" height="872.46" rx="117.9" ry="117.9" transform="translate(-291.94 949.35) rotate(-45)"/>
+    <g>
+      <path class="cls-7" d="M1004.26,824.49l182.29-182.29c2.73-2.73,4.26-6.43,4.26-10.29v-170.24c0-8.04-6.51-14.55-14.55-14.55h-170.24c-3.86,0-7.56,1.53-10.29,4.26l-182.29,182.29c-2.73,2.73-4.26,6.43-4.26,10.29v170.24c0,8.04,6.51,14.55,14.55,14.55h170.24c3.86,0,7.56-1.53,10.29-4.26Z"/>
+      <path class="cls-7" d="M1004.26,1202.79l182.29-182.29c2.73-2.73,4.26-6.43,4.26-10.29v-170.24c0-8.04-6.51-14.55-14.55-14.55h-170.24c-3.86,0-7.56,1.53-10.29,4.26l-182.29,182.29c-2.73,2.73-4.26,6.43-4.26,10.29v170.24c0,8.04,6.51,14.55,14.55,14.55h170.24c3.86,0,7.56-1.53,10.29-4.26Z"/>
+    </g>
+  </g>
+  <text class="cls-2" transform="translate(378.1 1683.33)"><tspan class="cls-6" x="0" y="0">MAN</tspan><tspan class="cls-8" x="408.44" y="0">A</tspan><tspan class="cls-9" x="534.94" y="0">GEMENT</tspan></text>
+  <text class="cls-1" transform="translate(383.01 1560.33)"><tspan class="cls-10" x="0" y="0">SMA</tspan><tspan class="cls-5" x="381.46" y="0">R</tspan><tspan class="cls-10" x="501.73" y="0">T </tspan><tspan class="cls-12" x="692.02" y="0">E</tspan><tspan class="cls-11" x="805.28" y="0">V</tspan><tspan class="cls-4" x="929.06" y="0">NET</tspan></text>
+</svg>
